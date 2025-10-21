@@ -7,4 +7,5 @@ Tujuan utamanya adalah memahami penggunaan Git dan GitHub sebagai sistem kontrol
 ## Cara Menjalankan Program
 1. Clone repository ini ke komputer kamu:
    ```bash
+   TES
 git clone https://github.com/gitafadila2605/Modul3-Pemlan.git
